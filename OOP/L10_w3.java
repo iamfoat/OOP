@@ -1,17 +1,11 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
-package l10_w3;
+
 import java.awt.event.*;
 import javax.swing.*;
 import java.awt.*;
 import java.util.*;
 import javax.swing.Timer;
-/**
- *
- * @author student
- */
+
+
 public class L10_w3 extends JFrame {
     static String country = "";
     JLabel jlbTh = new JLabel("Thai");
