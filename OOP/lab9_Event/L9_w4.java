@@ -2,7 +2,6 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package l9_w4;
 
 import java.awt.BorderLayout;
 import java.awt.GridLayout;
@@ -62,7 +61,6 @@ public class L9_w4 extends JFrame {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
         L9_w4 frame = new L9_w4();
         frame.setTitle("Convert US Dollars to Canadian Dollars");
         frame.setSize(500,300);
